@@ -1,0 +1,21 @@
+p{
+    background-color: orange;
+    color: red;
+}
+
+body{
+    background-color: silver;
+}
+
+h1{
+    background-color: aqua;
+    color:red;
+}
+
+.blueParagraph {
+    color: blue;
+}
+
+#secondParagraph {
+    color: cadetblue;
+}
